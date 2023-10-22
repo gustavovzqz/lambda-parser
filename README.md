@@ -8,7 +8,7 @@ This project involves the implementation of a type inference program in OCaml. T
 ### Syntax
 ```
 NUMBER ::= DIGIT | NON_ZERO_DIGIT DIGIT_SEQ
-DIGIT ::= 0 | D ́IGITO_N~AO_ZERO
+DIGIT ::= 0 | NON_ZERO_DIGIT
 NON_ZERO_DIGIT ::= 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 DIGIT_SEQ ::= DIGIT | DIGIT DIGIT_SEQ
 ----------------------------------------------------------------------------
