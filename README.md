@@ -1,7 +1,6 @@
 # Type Inference Implementation
 
-This project involves the implementation of a type inference program in OCaml. The program is designed to analyze terms from the Simply Typed Lambda Calculus and determine their types. The README provides an overview of the code structure and functionality.
-
+This project involves the implementation of a type inference program in OCaml. The program is designed to analyze terms from the Simply Typed Lambda Calculus and determine their types.
 
 ## Code Structure
 
