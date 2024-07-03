@@ -54,7 +54,3 @@ TERM ::= true
 The main program reads input from the user, parses the input string, infers the type of the term, and prints the result.
 If the input has a term and the term has a type, it shows the type. If the input has a term, but the term does not have a type, it shows "-". If there is no term, it shows "!".
 
-
-
----
-*This README provides a summary of the implementation of type inference in OCaml for the Simply Typed Lambda Calculus.*
